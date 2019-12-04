@@ -4,7 +4,7 @@ variable "enabled" {
 }
 
 variable "name" {
-  description = "namee for the dynamodb"
+  description = "name for the dynamodb"
   type = string
   default = ""
 }
